@@ -27,59 +27,59 @@ function App() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 p-4 md:p-6 items-start">
             <img
-              alt="weww"
+              alt="Photo"
               className="aspect-square object-cover rounded-lg overflow-hidden border border-gray-200 dark:border-gray-800"
               height={800}
-              src="src/images/05.jpg"
+              src="/images/05.jpg"
               width={800}
             />
             <img
               alt="Photo"
               className="aspect-square object-cover rounded-lg overflow-hidden border border-gray-200 dark:border-gray-800"
               height={800}
-              src="src/images/04.jpg"
-              width={800}
-            />
-            <img
-              alt="weww"
-              className="aspect-square object-cover rounded-lg overflow-hidden border border-gray-200 dark:border-gray-800"
-              height={800}
-              src="src/images/03.jpg"
+              src="/images/04.jpg"
               width={800}
             />
             <img
               alt="Photo"
               className="aspect-square object-cover rounded-lg overflow-hidden border border-gray-200 dark:border-gray-800"
               height={800}
-              src="src/images/01.jpg"
-              width={800}
-            />
-            <img
-              alt="weww"
-              className="aspect-square object-cover rounded-lg overflow-hidden border border-gray-200 dark:border-gray-800"
-              height={800}
-              src="src/images/07.jpg"
+              src="/images/03.jpg"
               width={800}
             />
             <img
               alt="Photo"
               className="aspect-square object-cover rounded-lg overflow-hidden border border-gray-200 dark:border-gray-800"
               height={800}
-              src="src/images/08.jpg"
-              width={800}
-            />
-            <img
-              alt="weww"
-              className="aspect-square object-cover rounded-lg overflow-hidden border border-gray-200 dark:border-gray-800"
-              height={800}
-              src="src/images/02.jpg"
+              src="/images/01.jpg"
               width={800}
             />
             <img
               alt="Photo"
               className="aspect-square object-cover rounded-lg overflow-hidden border border-gray-200 dark:border-gray-800"
               height={800}
-              src="src/images/06.jpg"
+              src="/images/07.jpg"
+              width={800}
+            />
+            <img
+              alt="Photo"
+              className="aspect-square object-cover rounded-lg overflow-hidden border border-gray-200 dark:border-gray-800"
+              height={800}
+              src="/images/08.jpg"
+              width={800}
+            />
+            <img
+              alt="Photo"
+              className="aspect-square object-cover rounded-lg overflow-hidden border border-gray-200 dark:border-gray-800"
+              height={800}
+              src="/images/02.jpg"
+              width={800}
+            />
+            <img
+              alt="Photo"
+              className="aspect-square object-cover rounded-lg overflow-hidden border border-gray-200 dark:border-gray-800"
+              height={800}
+              src="/images/06.jpg"
               width={800}
             />
           </div>
