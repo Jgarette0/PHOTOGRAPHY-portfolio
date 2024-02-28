@@ -1,0 +1,139 @@
+/* Dark mode styles */
+.dark {
+  --bg-color: #1b1b1f;
+  --text-color: #ffffff;
+  --btn: rgba(255, 255, 255, 0.2);
+}
+
+/* Light mode styles */
+.light {
+  --bg-color: #ffffff;
+  --text-color: #d1d1d2;
+  --btn: rgba(255, 255, 255, 0.2);
+  --blur-effect: rgba(255, 255, 255, 0.2);
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+.header-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+}
+
+.description-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.description-header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.darkmode-handler {
+  position: sticky;
+  top: 0;
+}
+
+.name-header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.nameNako {
+  font-size: 1.875rem;
+  font-weight: 700;
+  letter-spacing: -0.05em;
+  font-size: 3rem;
+  font-size: 3.75rem;
+}
+
+.darkmode {
+  position: fixed;
+  top: 16px;
+  right: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.darkmode:hover {
+  background-color: var(--btn);
+  transition: ease;
+}
+
+.github {
+  position: fixed;
+  top: 16px;
+  right: 50px;
+  padding: 10px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.github:hover {
+  background-color: var(--btn);
+  transition: ease;
+}
+
+@media only screen and (max-width: 480px) {
+  .nameNako {
+    font-weight: 700;
+    letter-spacing: -0.05em;
+    font-size: 2.15rem;
+    margin: 12px;
+  }
+
+  .github {
+    position: fixed;
+    top: 16px;
+    left: 25px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 0px;
+  }
+
+  .github:hover {
+    background-color: var(--btn);
+    transition: ease;
+  }
+
+  .darkmode {
+    position: fixed;
+    top: 16px;
+    right: 25px;
+  }
+}
+
+.header-container {
+  background-color: var(--blur-effect);
+  backdrop-filter: blur(5px);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.loading-screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.loading {
+  height: 800px;
+  width: 800px;
+}
