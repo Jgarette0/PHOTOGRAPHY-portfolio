@@ -21,4 +21,4 @@ This is a photography portfolio. It was built using Vite for the build tool, Som
 - Vite: [https://vitejs.dev/](https://vitejs.dev/)
 - Tailwind CSS: [https://tailwindcss.com/](https://tailwindcss.com/)
 - React: [https://reactjs.org/](https://react.dev/)
-- Shadcn UI: [https://ui.shadcn.com/](https://ui.shadcn.com/)https://ui.shadcn.com/
+- Shadcn UI: [https://ui.shadcn.com/](https://ui.shadcn.com/)
