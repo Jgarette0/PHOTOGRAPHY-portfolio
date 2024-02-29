@@ -1,8 +1,24 @@
-# React + Vite
+# Photography Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a photography portfolio. It was built using Vite for the build tool, Some little Tailwind CSS for styling, React for the frontend, Shadcn UI for some UI inspiration and Node.js as the runtime environment. The project is hosted on Vercel.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Vite
+- Tailwind CSS
+- React
+- Node.js
+- Shadcn UI
+- Vercel
+
+## Features
+
+- Displays a collection of my photography work
+- Responsive design for mobile and desktop
+
+## Credits
+
+- Vite: [https://vitejs.dev/](https://vitejs.dev/)
+- Tailwind CSS: [https://tailwindcss.com/](https://tailwindcss.com/)
+- React: [https://reactjs.org/](https://react.dev/)
+- Shadcn UI: [[Link to Shadcn UI documentation or GitHub repository]](https://ui.shadcn.com/)https://ui.shadcn.com/
