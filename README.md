@@ -1,15 +1,13 @@
 # Photography Portfolio
 
-This is a photography portfolio. It was built using Vite for the build tool, Some little Tailwind CSS for styling, React for the frontend, Shadcn UI for some UI inspiration and Node.js as the runtime environment. The project is hosted on Vercel.
-
 ## Technologies Used
 
-- Vite
-- Tailwind CSS
-- React
-- Node.js
-- Shadcn UI
-- Vercel
+- Vite | build tool
+- Tailwind | mini styling
+- React | frontend
+- Node.js | runtime
+- Shadcn UI | inspiration for UI component
+- Vercel | hosting
 
 ## Features
 
