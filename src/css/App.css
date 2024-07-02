@@ -7,10 +7,10 @@
 
 /* Light mode styles */
 .light {
-  --bg-color: #ffffff;
+  --bg-color: white;
   --text-color: #d1d1d2;
   --btn: rgba(255, 255, 255, 0.2);
-  --blur-effect: rgba(255, 255, 255, 0.2);
+  --blur-effect: rgba(255, 255,255, 0.2); 
 }
 
 body {
