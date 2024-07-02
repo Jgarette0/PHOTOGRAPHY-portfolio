@@ -1,16 +1,16 @@
 /* Dark mode styles */
 .dark {
-  --bg-color: #212121;
+  --bg-color: #030712;
   --text-color: #ffffff;
-  --btn: rgba(255, 255, 255, 0.2);
+  --btn: #030712;
 }
 
 /* Light mode styles */
 .light {
   --bg-color: #ffffff;
-  --text-color: #d1d1d2;
-  --btn: rgba(255, 255, 255, 0.2);
-  --blur-effect: rgba(255, 255,255, 0.2); 
+  --text-color: #030712;
+  --btn: #030712;
+  --blur-effect: #030712; 
 }
 
 body {
