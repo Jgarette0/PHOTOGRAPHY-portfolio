@@ -1,13 +1,13 @@
 /* Dark mode styles */
 .dark {
-  --bg-color: #1b1b1f;
-  --text-color: white;
+  --bg-color: #212121;
+  --text-color: #ffffff;
   --btn: rgba(255, 255, 255, 0.2);
 }
 
 /* Light mode styles */
 .light {
-  --bg-color: white;
+  --bg-color: #ffffff;
   --text-color: #d1d1d2;
   --btn: rgba(255, 255, 255, 0.2);
   --blur-effect: rgba(255, 255,255, 0.2); 
